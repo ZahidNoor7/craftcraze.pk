@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+		body
+		{
+			background-image:url("Images/Background.jpg")
+		}
+		.socialmedia
+		{
+    		color: inherit;
+   			text-decoration: none;
+		}
+		.icons
+		{
+			text-align: right;
+		}
+		footer
+		{
+  			background: rgba(0,0,0,0.8) ;
+  			color: #aaa;
+		}
